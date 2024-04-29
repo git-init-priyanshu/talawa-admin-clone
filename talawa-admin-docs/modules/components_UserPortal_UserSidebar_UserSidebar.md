@@ -4,6 +4,10 @@
 
 ## Table of contents
 
+### Interfaces
+
+- [InterfaceUserSidebarProps](../interfaces/components_UserPortal_UserSidebar_UserSidebar.InterfaceUserSidebarProps.md)
+
 ### Functions
 
 - [default](components_UserPortal_UserSidebar_UserSidebar.md#default)
@@ -12,12 +16,18 @@
 
 ### default
 
-▸ **default**(): `JSX.Element`
+▸ **default**(`«destructured»`): `Element`
+
+#### Parameters
+
+| Name | Type |
+| :------ | :------ |
+| `«destructured»` | [`InterfaceUserSidebarProps`](../interfaces/components_UserPortal_UserSidebar_UserSidebar.InterfaceUserSidebarProps.md) |
 
 #### Returns
 
-`JSX.Element`
+`Element`
 
 #### Defined in
 
-[src/components/UserPortal/UserSidebar/UserSidebar.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L16)
+[src/components/UserPortal/UserSidebar/UserSidebar.tsx:15](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/components/UserPortal/UserSidebar/UserSidebar.tsx#L15)

@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:17](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/IconComponent/IconComponent.tsx#L17)
+[src/components/IconComponent/IconComponent.tsx:24](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/components/IconComponent/IconComponent.tsx#L24)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:18](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/IconComponent/IconComponent.tsx#L18)
+[src/components/IconComponent/IconComponent.tsx:25](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/components/IconComponent/IconComponent.tsx#L25)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:16](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/IconComponent/IconComponent.tsx#L16)
+[src/components/IconComponent/IconComponent.tsx:23](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/components/IconComponent/IconComponent.tsx#L23)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[src/components/IconComponent/IconComponent.tsx:19](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/IconComponent/IconComponent.tsx#L19)
+[src/components/IconComponent/IconComponent.tsx:26](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/components/IconComponent/IconComponent.tsx#L26)

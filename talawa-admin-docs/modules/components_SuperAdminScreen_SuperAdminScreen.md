@@ -4,10 +4,6 @@
 
 ## Table of contents
 
-### Interfaces
-
-- [InterfaceSuperAdminScreenProps](../interfaces/components_SuperAdminScreen_SuperAdminScreen.InterfaceSuperAdminScreenProps.md)
-
 ### Functions
 
 - [default](components_SuperAdminScreen_SuperAdminScreen.md#default)
@@ -16,13 +12,7 @@
 
 ### default
 
-▸ **default**(`«destructured»`): `Element`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `«destructured»` | [`InterfaceSuperAdminScreenProps`](../interfaces/components_SuperAdminScreen_SuperAdminScreen.InterfaceSuperAdminScreenProps.md) |
+▸ **default**(): `Element`
 
 #### Returns
 
@@ -30,4 +20,4 @@
 
 #### Defined in
 
-[src/components/SuperAdminScreen/SuperAdminScreen.tsx:11](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/SuperAdminScreen/SuperAdminScreen.tsx#L11)
+[src/components/SuperAdminScreen/SuperAdminScreen.tsx:9](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/components/SuperAdminScreen/SuperAdminScreen.tsx#L9)

@@ -12,12 +12,12 @@
 
 ### default
 
-▸ **default**(): `JSX.Element`
+▸ **default**(): `Element`
 
 #### Returns
 
-`JSX.Element`
+`Element`
 
 #### Defined in
 
-[src/screens/LoginPage/LoginPage.tsx:44](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/screens/LoginPage/LoginPage.tsx#L44)
+[src/screens/LoginPage/LoginPage.tsx:36](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/screens/LoginPage/LoginPage.tsx#L36)

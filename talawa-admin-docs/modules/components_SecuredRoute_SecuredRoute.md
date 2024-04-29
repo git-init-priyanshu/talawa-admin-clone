@@ -12,13 +12,7 @@
 
 ### default
 
-▸ **default**(`props`): `Element`
-
-#### Parameters
-
-| Name | Type |
-| :------ | :------ |
-| `props` | `any` |
+▸ **default**(): `Element`
 
 #### Returns
 
@@ -26,4 +20,4 @@
 
 #### Defined in
 
-[src/components/SecuredRoute/SecuredRoute.tsx:7](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/components/SecuredRoute/SecuredRoute.tsx#L7)
+[src/components/SecuredRoute/SecuredRoute.tsx:8](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/components/SecuredRoute/SecuredRoute.tsx#L8)

@@ -4,6 +4,10 @@
 
 ## Table of contents
 
+### Enumerations
+
+- [ViewType](../enums/screens_OrganizationEvents_OrganizationEvents.ViewType.md)
+
 ### Functions
 
 - [default](screens_OrganizationEvents_OrganizationEvents.md#default)
@@ -20,4 +24,4 @@
 
 #### Defined in
 
-[src/screens/OrganizationEvents/OrganizationEvents.tsx:29](https://github.com/PalisadoesFoundation/talawa-admin/blob/12d9229/src/screens/OrganizationEvents/OrganizationEvents.tsx#L29)
+[src/screens/OrganizationEvents/OrganizationEvents.tsx:43](https://github.com/git-init-priyanshu/talawa-admin-clone/blob/d03f5ca/src/screens/OrganizationEvents/OrganizationEvents.tsx#L43)
